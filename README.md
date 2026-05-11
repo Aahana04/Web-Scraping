@@ -1,5 +1,5 @@
-# PRODIGY_SD_05
-Web Scraping
+# Web Scraping
+
 
 <img width="1132" height="471" alt="task 5 ss1 py" src="https://github.com/user-attachments/assets/9dc5b26a-b904-4cf4-aa9e-08ab154da026" />
 
